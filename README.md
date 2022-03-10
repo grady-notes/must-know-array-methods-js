@@ -2,10 +2,10 @@
 
 ### Contents
 
-[Map](01-map.md)
+- [Map](01-map.md)
 
-[Filter](02-filter.md)
+- [Filter](02-filter.md)
 
-[Find](03-find.md)
+- [Find](03-find.md)
 
-[Reduce](04-reduce.md)
+- [Reduce](04-reduce.md)
